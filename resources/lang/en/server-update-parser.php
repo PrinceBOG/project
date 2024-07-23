@@ -1,0 +1,17 @@
+<?php return [
+    'date_at' => 'Timestamp',
+    'date_utc_at' => 'Location Date (UTC)',
+    'device' => 'Device',
+    'direction' => 'Address',
+    'format' => 'Format',
+    'latitude' => 'Latitude',
+    'line' => 'Line',
+    'log' => 'Protocol :name Log',
+    'longitude' => 'Longitude',
+    'meta-title' => 'Servers > :title > Parser',
+    'send' => 'Send',
+    'serial' => 'Serial',
+    'signal' => 'Signal',
+    'speed' => 'Speed',
+    'timezone' => 'Zone',
+];
